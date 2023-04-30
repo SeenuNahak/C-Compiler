@@ -1,4 +1,4 @@
-# Frontend Phase of a C Compiler
+# FRONTEND PHASE of a C Compiler
 
 ## Using the Compiler
 
@@ -127,9 +127,11 @@ int main() {
 
 ![Symbol Table](/Images/tree.png)
 
+
 ### Semantic Phase
 
 ![Symbol Table](/Images/semantic.png)
+
 
 ### Intermediate Code Generation
 
